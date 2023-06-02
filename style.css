@@ -1,0 +1,23 @@
+#div1{
+    background-color: aqua;
+    text-align: center;
+}
+#div2{
+    background-color: lightgreen;
+    border-radius: 55px;
+    width: 450px;
+    
+}
+#hr{
+    border-color: black;
+}
+body{
+    margin: 0;
+   background-image: url("https://static.vecteezy.com/system/resources/previews/007/470/561/original/aesthetic-abstract-liquify-background-free-photo.jpg") ;
+}
+#objeto{
+    text-align: center;
+}
+#presición{
+    text-align: center;
+}
